@@ -1,0 +1,90 @@
+<html><head><title>Export data to MS-Excel</title><meta http-equiv="Content-Type" content="text/html; charset=windows-874"><meta http-equiv="Content-Language" content="th"></head><body>
+<h1>Institute of Nutrition, Mahidol University, Thailand</h1><div><b>Please cite as:</b> Kunchit Judprasong, Prapasri Puwastien, Nipa Rojroongwasinkul,  Anadi Nitithamyong, Piyanut Sridonpai, Amnat Somjai. 
+	<br>Institute of Nutrition, Mahidol University (2015). Thai Food Composition Database, Online version 2, September 2018, Thailand. 
+	<br>Web site: http://www.inmu.mahidol.ac.th/thaifcd</div><table border="0" cellpadding="2" cellspacing="1">
+    <tr  >
+		<td width="400" align=left colspan="5" >Food Code: <b>T255</b></td>
+    </tr>
+	<tr  >
+		<td width="400" align=left colspan="5" >Thai name: <b>ข้าวต้มมัด</b></td>
+    </tr>
+	<tr  >
+		<td width="400" align=left colspan="5" >English name: <b>Kao-tom-mud (steamed glutinous rice with black bean and banana filling)</b></td>
+    </tr>
+	<tr  >
+		<td width="400" align=left colspan="5" >Scientific name: <b>-</b></td>
+    </tr>
+	<tr  >
+		<td width="400" align=left colspan="5" ></td>
+    </tr>
+	</table>
+	<table border="1" cellpadding="2" cellspacing="1" align=center bgcolor="#F5F5F5">
+		<tr style="height:40px" >
+	<td width="400" align=center style="background-color:#C0C0C0;" ><b>Nutrients <br>(สารอาหาร)</b></td>
+	<td width="200" align=center style="background-color:#C0C0C0;" ><b>Detail <br>(รายละเอียด)</b></td>
+	<td width="200" align=center style="background-color:#C0C0C0;" ><b>Unit <br>(หน่วย)</b></td>
+	<td width="200" align=center style="background-color:#C0C0C0;" ><b>Content per 100 g edible portion <br>(ปริมาณต่อ 100 กรัม ส่วนที่กินได้)</b></td>
+		</tr>
+			<tr>
+				<td style="background:#FFFFFF;" align=left>Total energy - by calculation</td>
+				<td style="background:#FFFFFF;" align=left>If CHOAVLDF was not available, CHOCDF was used. Energy value was calculated as follows and put in parenthesis. Calculated by (4 x g protein)+(9 x g fat)+ (4 x g CHOCDF)</td>
+				<td style="background:#FFFFFF;" align=center>kcal</td>
+				<td style="background:#FFFFFF;" align=right>217</td>
+			</tr>
+			
+			<tr>
+				<td style="background:#FFFFFF;" align=left>Moisture</td>
+				<td style="background:#FFFFFF;" align=left>All methods</td>
+				<td style="background:#FFFFFF;" align=center>g</td>
+				<td style="background:#FFFFFF;" align=right>49.6</td>
+			</tr>
+			
+			<tr>
+				<td style="background:#FFFFFF;" align=left>Protein, total</td>
+				<td style="background:#FFFFFF;" align=left>Kjeldahl method</td>
+				<td style="background:#FFFFFF;" align=center>g</td>
+				<td style="background:#FFFFFF;" align=right>3.05</td>
+			</tr>
+			
+			<tr>
+				<td style="background:#FFFFFF;" align=left>Fat, total</td>
+				<td style="background:#FFFFFF;" align=left>All methods, choose higher values based on values obtained from method with acid digestion</td>
+				<td style="background:#FFFFFF;" align=center>g</td>
+				<td style="background:#FFFFFF;" align=right>3.75</td>
+			</tr>
+			
+			<tr>
+				<td style="background:#FFFFFF;" align=left>Carbohydrate, total</td>
+				<td style="background:#FFFFFF;" align=left>CHOCDF = 100 g – (weight in grams [water + protein + fat + ash] in 100 g food)            (use this calculation when FIBTG data was not available)</td>
+				<td style="background:#FFFFFF;" align=center>g</td>
+				<td style="background:#FFFFFF;" align=right>42.80</td>
+			</tr>
+			
+			<tr>
+				<td style="background:#FFFFFF;" align=left>Ash</td>
+				<td style="background:#FFFFFF;" align=left>All methods</td>
+				<td style="background:#FFFFFF;" align=center>g</td>
+				<td style="background:#FFFFFF;" align=right>0.80</td>
+			</tr>
+			
+			<tr>
+				<td style="background:#FFFFFF;" align=left>Sodium</td>
+				<td style="background:#FFFFFF;" align=left>AOAC method</td>
+				<td style="background:#FFFFFF;" align=center>mg</td>
+				<td style="background:#FFFFFF;" align=right>142</td>
+			</tr>
+			
+			<tr>
+				<td style="background:#FFFFFF;" align=left>Potassium</td>
+				<td style="background:#FFFFFF;" align=left>AOAC method</td>
+				<td style="background:#FFFFFF;" align=center>mg</td>
+				<td style="background:#FFFFFF;" align=right>183</td>
+			</tr>
+			
+			<tr>
+				<td style="background:#FFFFFF;" align=left>Sugars, total</td>
+				<td style="background:#FFFFFF;" align=left>AOAC - HPLC method</td>
+				<td style="background:#FFFFFF;" align=center>g</td>
+				<td style="background:#FFFFFF;" align=right>14.40</td>
+			</tr>
+			</table>
