@@ -14,6 +14,11 @@ Install COBRA Toolbox
 **Usage**  
 Run the main pipeline in main.m
 
+**Supplementary folders**
+1. ThaiDietData: data in this folder are used for calculating the average Thai diet.
+2. Codes: this foldar contains in-house MATLAB scripts developed and used for data preprocessing.
+3. AGORAmodels: this folder is used as modPath for reconstructing CSMMs.
+   
 **Citation**  
 If you use this code in your work, please cite: TBA
 
