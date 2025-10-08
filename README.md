@@ -1,5 +1,5 @@
 **Overview**   
-This repository contains MATLAB scripts for modeling diet–gut microbiome interactions based on Thai adult microbiome profiles.  
+This repository is for modeling diet–gut microbiome interactions based on Thai adult microbiome profiles.  
 The pipeline simulates microbial metabolic activity under Thai dietary and prebiotic conditions.  
 
 The modeling workflow consists of three parts:  
