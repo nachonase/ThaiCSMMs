@@ -18,7 +18,7 @@ Run the main pipeline in main.m
 1. ThaiDietData: data in this folder are used for calculating the average Thai diet.
 2. Codes: this foldar contains in-house MATLAB scripts developed and used for data preprocessing.
 3. AGORAmodels: This folder serves as the modPath for reconstructing CSMMs. Because the full model set is large, I have uploaded only some AGORA models used in my study as examples. Please download the remaining AGORA models from Google Drive: https://shorturl.at/7hySD . After downloading, place the AGORA .mat files into the AGORA_1_03_mat folder.
-4. BackupThaiCSMMs: This folder contains all 86 Thai CSMM .mat files generated in this study (Step 1 results).
+4. BackupThaiCSMMs: This folder contains Thai CSMM .mat files generated in this study. Because the full model set of Thai CSMMs is large, I have uploaded only some Thai CSMMs generated in this study as examples. Please download the remaining  Thai CSMMs from Google Drive: https://shorturl.at/OSvcd.
    
 **Citation**  
 If you use this code in your work, please cite: TBA
