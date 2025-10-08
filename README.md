@@ -5,7 +5,7 @@ The pipeline simulates microbial metabolic activity under Thai dietary and prebi
 The modeling workflow consists of three parts:  
 1. Reconstruction and modeling of Thai community-scale metabolic models (CSMMs) using an average Thai diet  
 2. Prediction of microbial contributions to SCFA production  
-3. Simulation of prebiotic responses and uptake flux analysis  
+3. Simulation of prebiotic responses and uptake flux analysis (working directory: prebiotic folder)   
 
 **Installation**  
 Install MATLAB (tested with R2024a).  
